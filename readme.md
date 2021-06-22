@@ -1,4 +1,5 @@
-# Three.js Journey
+# Three.js Journey project
+live at https://relaxed-mayer-dbff46.netlify.app
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
